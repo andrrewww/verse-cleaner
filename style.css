@@ -1,8 +1,8 @@
 body {
     background-color: black;
-    font-family: system-ui, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     font-size: 16px;
-    padding-bottom: 16px;
+    padding-bottom: 24px;
 }
 
 #container {
